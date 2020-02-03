@@ -44,4 +44,4 @@ localhost:8000
 
 ## Docs
 
-The javadoc is available online [here](https://spageaud.github.io/SmartGovLiris).
+The javadoc is available online [here](https://smartgov-liris.github.io/SmartGovRepast/).
