@@ -1,0 +1,13 @@
+README
+
+Bugs that may occur :
+a) When a new class is created, the display saved (mainly GIS 2D display) and the class is destroyed after that, a bug occurs.
+To remove this bug, go to the display and manually erase the <styles> entry and the <layoutorder> entry of this class like : 
+<entry>
+      <string>environment.city.AgentBody</string>
+      <null/>
+</entry>
+for the AgentBody class.
+
+External Libraries (Since I cannot find a way to use Maven, I'll keep a list of external jars here) :
+Joda Time http://www.joda.org/joda-time/

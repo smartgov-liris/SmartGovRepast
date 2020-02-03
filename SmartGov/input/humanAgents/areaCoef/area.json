@@ -1,0 +1,53 @@
+{
+	"HyperCenter": {
+		"Regular": {
+			"weight": 1.5
+		},
+		"Low_Income": {
+			"weight": 1.5
+		},
+		"Eco-Friendly": {
+			"weight": 1.5
+		},
+		"Impatient": {
+			"weight": 1.5
+		},
+		"Hurried": {
+			"weight": 1.5
+		}
+	},
+	"Residential": {
+		"Regular": {
+			"weight": 1
+		},
+		"Low_Income": {
+			"weight": 1
+		},
+		"Eco-Friendly": {
+			"weight": 1
+		},
+		"Impatient": {
+			"weight": 1
+		},
+		"Hurried": {
+			"weight": 1
+		}
+	},
+	"Default": {
+		"Regular": {
+			"weight": 1
+		},
+		"Low_Income": {
+			"weight": 1
+		},
+		"Eco-Friendly": {
+			"weight": 1
+		},
+		"Impatient": {
+			"weight": 1
+		},
+		"Hurried": {
+			"weight": 1
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	1:{
+		"ScenarioID":[1],
+		"Utility":{
+			"Regular":[1,2]
+		}
+	},
+	2:{
+		"ScenarioID":[2],
+		"Utility":{
+			"Regular":[1]
+		}
+	}
+}

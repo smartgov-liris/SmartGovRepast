@@ -1,0 +1,75 @@
+{
+	"Regular": {
+		"intervals": {
+			"0": {
+				"borne": 600,
+				"utility": 1,
+			},
+			"1": {
+				"borne": 300,
+				"utility": 0,
+			}
+		},
+		"weight": 1
+	},
+	"Low_Income": {
+		"intervals": {
+			"0": {
+				"borne": 600,
+				"utility": 1,
+			},
+			"1": {
+				"borne": 300,
+				"utility": 0,
+			}
+		},
+		"weight": 0.5
+	},
+	"Eco-Friendly": {
+		"intervals": {
+			"0": {
+				"borne": 600,
+				"utility": 1,
+			},
+			"1": {
+				"borne": 300,
+				"utility": 0,
+			}
+		},
+		"weight": 1
+	},
+	"Impatient": {
+		"intervals": {
+			"0": {
+				"borne": 150,
+				"utility": 1,
+			},
+			"1": {
+				"borne": 100,
+				"utility": 0,
+			}
+		},
+		"weight": 0.2
+	},
+	"Hurried": {
+		"intervals": {
+			"0": {
+				"borne": 150,
+				"utility": 1,
+			},
+			"1": {
+				"borne": 100,
+				"utility": 0,
+			}
+		},
+		"weight": 1
+	},
+	"Info": {
+		"MAX": 600,
+		"MIN": 0,
+		"MODE": "bus",
+		"TYPE": "normal",
+		"CATEGORIE": "value",
+		"TEXT": "time"
+	}
+}

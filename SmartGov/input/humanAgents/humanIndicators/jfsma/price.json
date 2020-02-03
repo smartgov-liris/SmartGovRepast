@@ -1,0 +1,71 @@
+{
+	"Regular": {
+		"intervals": {
+			"0": {
+				"borne": 2.5,
+				"utility": 1,
+			},
+			"1": {
+				"borne": 3.5,
+				"utility": 0,
+			}
+		},
+		"weight": 1
+	},
+	"Low_Income": {
+		"intervals": {
+			"0": {
+				"borne": 1.5,
+				"utility": 1,
+			},
+			"1": {
+				"borne": 2.5,
+				"utility": 0,
+			}
+		},
+		"weight": 1
+	},
+	"Eco-Friendly": {
+		"intervals": {
+			"0": {
+				"borne": 2.5,
+				"utility": 1,
+			},
+			"1": {
+				"borne": 4.0,
+				"utility": 0,
+			}
+		},
+		"weight": 0.5
+	},
+	"Impatient": {
+		"intervals": {
+			"0": {
+				"borne": 2.5,
+				"utility": 1,
+			},
+			"1": {
+				"borne": 4.0,
+				"utility": 0,
+			}
+		},
+		"weight": 0.2
+	},
+	"Hurried": {
+		"intervals": {
+			"0": {
+				"borne": 4.0,
+				"utility": 1,
+			}
+		},
+		"weight": 0.2
+	},
+	"Info": {
+		"MAX": 4.0,
+		"MIN": 0.5,
+		"MODE": "car",
+		"TYPE": "normal",
+		"CATEGORIE": "value",
+		"TEXT": "price"
+	}
+}

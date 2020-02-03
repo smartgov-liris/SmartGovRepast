@@ -1,0 +1,124 @@
+------[Iteration: 0]------
+Total voters: 8.
+Action: DECREASE_PLACES, Voters: 2, Score: 0, ids: 152,626,
+Action: INCREASE_PLACES, Voters: 3, Score: 0, ids: 163,627,873,
+Action: INCREASE_PRICES, Voters: 1, Score: 0, ids: 164,
+Action: DECREASE_PRICES, Voters: 2, Score: 0, ids: 151,874,
+Apply action INCREASE_PLACES randomly choose by policy agent.
+------[Iteration: 1]------
+Total voters: 8.
+Action: DECREASE_PLACES, Voters: 1, Score: 0, ids: 152,
+Action: INCREASE_PRICES, Voters: 2, Score: 0, ids: 164,873,
+Action: INCREASE_PLACES, Voters: 2, Score: 0, ids: 626,627,
+Action: DO_NOTHING, Voters: 3, Score: 0, ids: 151,163,874,
+Apply action DO_NOTHING randomly choose by policy agent.
+------[Iteration: 2]------
+Total voters: 8.
+Action: DECREASE_PLACES, Voters: 1, Score: 0, ids: 152,
+Action: INCREASE_PRICES, Voters: 1, Score: 0, ids: 163,
+Action: INCREASE_PLACES, Voters: 2, Score: 0, ids: 626,874,
+Action: DECREASE_PRICES, Voters: 3, Score: 0, ids: 164,627,873,
+Action: DO_NOTHING, Voters: 1, Score: 0, ids: 151,
+Apply action INCREASE_PLACES randomly choose by policy agent.
+------[Iteration: 3]------
+Total voters: 8.
+Action: DECREASE_PLACES, Voters: 1, Score: 0, ids: 874,
+Action: INCREASE_PLACES, Voters: 2, Score: 0, ids: 151,163,
+Action: INCREASE_PRICES, Voters: 1, Score: 0, ids: 164,
+Action: DECREASE_PRICES, Voters: 3, Score: 0, ids: 626,627,873,
+Action: DO_NOTHING, Voters: 1, Score: 0, ids: 152,
+Apply action INCREASE_PRICES randomly choose by policy agent.
+------[Iteration: 4]------
+Total voters: 8.
+Action: DECREASE_PLACES, Voters: 2, Score: 0, ids: 151,873,
+Action: INCREASE_PLACES, Voters: 1, Score: 0, ids: 152,
+Action: INCREASE_PRICES, Voters: 1, Score: 0, ids: 163,
+Action: DECREASE_PRICES, Voters: 2, Score: 0, ids: 164,626,
+Action: DO_NOTHING, Voters: 2, Score: 0, ids: 627,874,
+Apply action DECREASE_PRICES randomly choose by policy agent.
+------[Iteration: 5]------
+Total voters: 8.
+Action: DECREASE_PLACES, Voters: 2, Score: 0, ids: 626,627,
+Action: INCREASE_PLACES, Voters: 4, Score: 0, ids: 163,164,873,874,
+Action: DO_NOTHING, Voters: 2, Score: 0, ids: 151,152,
+Apply action DECREASE_PLACES randomly choose by policy agent.
+------[Iteration: 6]------
+Total voters: 8.
+Action: DECREASE_PLACES, Voters: 2, Score: 0, ids: 151,626,
+Action: INCREASE_PRICES, Voters: 2, Score: 0, ids: 164,873,
+Action: DECREASE_PRICES, Voters: 2, Score: 0, ids: 163,627,
+Action: DO_NOTHING, Voters: 2, Score: 0, ids: 152,874,
+Apply action INCREASE_PRICES randomly choose by policy agent.
+------[Iteration: 7]------
+Total voters: 8.
+Action: DECREASE_PLACES, Voters: 3, Score: 0, ids: 151,627,874,
+Action: INCREASE_PRICES, Voters: 1, Score: 0, ids: 152,
+Action: INCREASE_PLACES, Voters: 3, Score: 0, ids: 163,626,873,
+Action: DECREASE_PRICES, Voters: 1, Score: 0, ids: 164,
+Apply action INCREASE_PLACES based on random consensus between two or more actions.
+------[Iteration: 8]------
+Total voters: 8.
+Action: DECREASE_PLACES, Voters: 1, Score: 0, ids: 152,
+Action: INCREASE_PLACES, Voters: 3, Score: 0, ids: 151,626,874,
+Action: INCREASE_PRICES, Voters: 2, Score: 0, ids: 163,627,
+Action: DECREASE_PRICES, Voters: 1, Score: 0, ids: 873,
+Action: DO_NOTHING, Voters: 1, Score: 0, ids: 164,
+Apply action INCREASE_PRICES randomly choose by policy agent.
+------[Iteration: 9]------
+Total voters: 8.
+Action: DECREASE_PLACES, Voters: 1, Score: 0, ids: 873,
+Action: INCREASE_PLACES, Voters: 2, Score: 0, ids: 163,164,
+Action: DECREASE_PRICES, Voters: 3, Score: 0, ids: 151,152,626,
+Action: DO_NOTHING, Voters: 2, Score: 0, ids: 627,874,
+Apply action DECREASE_PRICES proposed by the majority of agents.
+------[Iteration: 10]------
+Total voters: 8.
+Action: DECREASE_PLACES, Voters: 1, Score: 0, ids: 163,
+Action: INCREASE_PLACES, Voters: 3, Score: 0, ids: 151,626,627,
+Action: INCREASE_PRICES, Voters: 1, Score: 0, ids: 152,
+Action: DECREASE_PRICES, Voters: 2, Score: 0, ids: 164,874,
+Action: DO_NOTHING, Voters: 1, Score: 0, ids: 873,
+Apply action INCREASE_PLACES proposed by the majority of agents.
+------[Iteration: 11]------
+Total voters: 8.
+Action: DECREASE_PLACES, Voters: 2, Score: 0, ids: 152,164,
+Action: INCREASE_PLACES, Voters: 2, Score: 0, ids: 163,627,
+Action: DECREASE_PRICES, Voters: 2, Score: 0, ids: 626,874,
+Action: DO_NOTHING, Voters: 2, Score: 0, ids: 151,873,
+Apply action DECREASE_PLACES randomly choose by policy agent.
+------[Iteration: 12]------
+Total voters: 8.
+Action: DECREASE_PLACES, Voters: 4, Score: 0, ids: 151,152,164,626,
+Action: INCREASE_PLACES, Voters: 3, Score: 0, ids: 163,627,873,
+Action: DECREASE_PRICES, Voters: 1, Score: 0, ids: 874,
+Apply action DECREASE_PLACES proposed by the majority of agents.
+------[Iteration: 13]------
+Total voters: 8.
+Action: INCREASE_PLACES, Voters: 3, Score: 0, ids: 151,163,873,
+Action: INCREASE_PRICES, Voters: 1, Score: 0, ids: 627,
+Action: DECREASE_PRICES, Voters: 2, Score: 0, ids: 152,164,
+Action: DO_NOTHING, Voters: 2, Score: 0, ids: 626,874,
+Apply action INCREASE_PLACES proposed by the majority of agents.
+------[Iteration: 14]------
+Total voters: 8.
+Action: DECREASE_PLACES, Voters: 1, Score: 0, ids: 163,
+Action: INCREASE_PRICES, Voters: 2, Score: 0, ids: 151,626,
+Action: INCREASE_PLACES, Voters: 1, Score: 0, ids: 164,
+Action: DECREASE_PRICES, Voters: 1, Score: 0, ids: 874,
+Action: DO_NOTHING, Voters: 3, Score: 0, ids: 152,627,873,
+Apply action DO_NOTHING proposed by the majority of agents.
+------[Iteration: 15]------
+Total voters: 8.
+Action: DECREASE_PLACES, Voters: 2, Score: 0, ids: 151,163,
+Action: INCREASE_PLACES, Voters: 2, Score: 0, ids: 164,873,
+Action: DECREASE_PRICES, Voters: 2, Score: 0, ids: 626,874,
+Action: DO_NOTHING, Voters: 2, Score: 0, ids: 152,627,
+Apply action DO_NOTHING randomly choose by policy agent.
+------[Iteration: 16]------
+Total voters: 8.
+Action: DECREASE_PLACES, Voters: 2, Score: 0, ids: 152,163,
+Action: INCREASE_PLACES, Voters: 1, Score: 0, ids: 151,
+Action: INCREASE_PRICES, Voters: 1, Score: 0, ids: 874,
+Action: DECREASE_PRICES, Voters: 3, Score: 0, ids: 164,626,873,
+Action: DO_NOTHING, Voters: 1, Score: 0, ids: 627,
+Apply action DECREASE_PRICES proposed by the majority of agents.

@@ -1,0 +1,75 @@
+{
+	"Regular": {
+		"intervals": {
+			"0": {
+				"borne": 250,
+				"utility": 1,
+			},
+			"1": {
+				"borne": 500,
+				"utility": 0,
+			}
+		},
+		"weight": 1
+	},
+	"Low_Income": {
+		"intervals": {
+			"0": {
+				"borne": 250,
+				"utility": 1,
+			},
+			"1": {
+				"borne": 500,
+				"utility": 0,
+			}
+		},
+		"weight": 0.5
+	},
+	"Eco-Friendly": {
+		"intervals": {
+			"0": {
+				"borne": 500,
+				"utility": 1,
+			},
+			"1": {
+				"borne": 1000,
+				"utility": 0,
+			}
+		},
+		"weight": 1
+	},
+	"Impatient": {
+		"intervals": {
+			"0": {
+				"borne": 250,
+				"utility": 1,
+			},
+			"1": {
+				"borne": 350,
+				"utility": 0,
+			}
+		},
+		"weight": 0.2
+	},
+	"Hurried": {
+		"intervals": {
+			"0": {
+				"borne": 100,
+				"utility": 1,
+			},
+			"1": {
+				"borne": 200,
+				"utility": 0,
+			}
+		},
+		"weight": 1
+	},
+	"Info": {
+		"MAX": 1000.0,
+		"MIN": 0.0,
+		"MODE": "car",
+		"TYPE": "normal",
+		"CATEGORIE": "distance",
+		"TEXT": "position_stop,office"
+	}
+}

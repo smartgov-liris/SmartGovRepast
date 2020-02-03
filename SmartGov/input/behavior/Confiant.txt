@@ -1,0 +1,2 @@
+dparkAwareness=250
+dpark=100

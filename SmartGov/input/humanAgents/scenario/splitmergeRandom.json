@@ -1,0 +1,35 @@
+{
+	1:{
+		"ScenarioID":[1],
+		"Utility":{
+			"Regular":[1,3],
+			"Low_Income":[2,4]
+		}
+	},
+	2:{
+		"ScenarioID":[2],
+		"Utility":{
+			"Regular":[1,2],
+			"Low_Income":[3,4]
+		}
+	},
+	3:{
+		"ScenarioID":[4],
+		"Utility":{
+			"Regular":[1,2,3,4]
+		}
+	},
+	4:{
+		"ScenarioID":[5],
+		"Utility":{
+			"Regular":[1],
+			"Low_Income":[2]
+		}
+	},
+	5:{
+		"ScenarioID":[6],
+		"Utility":{
+			"Regular":[1,2]
+		}
+	}
+}

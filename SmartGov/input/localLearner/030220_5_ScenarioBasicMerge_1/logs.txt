@@ -1,0 +1,17 @@
+[Time] (1)| Date: Mon Feb 03 07:35:00 CET 2020 | Iteration time: 00:00:07.075 | Total time: 00:00:07.079 |
+[Time] (2)| Date: Mon Feb 03 07:35:01 CET 2020 | Iteration time: 00:00:00.721 | Total time: 00:00:07.796 |
+[Time] (3)| Date: Mon Feb 03 07:35:02 CET 2020 | Iteration time: 00:00:00.746 | Total time: 00:00:08.542 |
+[Time] (4)| Date: Mon Feb 03 07:35:02 CET 2020 | Iteration time: 00:00:00.605 | Total time: 00:00:09.147 |
+[Time] (5)| Date: Mon Feb 03 07:35:03 CET 2020 | Iteration time: 00:00:00.564 | Total time: 00:00:09.711 |
+[Time] (6)| Date: Mon Feb 03 07:35:03 CET 2020 | Iteration time: 00:00:00.691 | Total time: 00:00:10.402 |
+[Time] (7)| Date: Mon Feb 03 07:35:04 CET 2020 | Iteration time: 00:00:00.544 | Total time: 00:00:10.946 |
+[Time] (8)| Date: Mon Feb 03 07:35:05 CET 2020 | Iteration time: 00:00:00.663 | Total time: 00:00:11.609 |
+[Time] (9)| Date: Mon Feb 03 07:35:05 CET 2020 | Iteration time: 00:00:00.570 | Total time: 00:00:12.179 |
+[Time] (10)| Date: Mon Feb 03 07:35:06 CET 2020 | Iteration time: 00:00:00.585 | Total time: 00:00:12.764 |
+[Time] (11)| Date: Mon Feb 03 07:35:06 CET 2020 | Iteration time: 00:00:00.598 | Total time: 00:00:13.362 |
+[Time] (12)| Date: Mon Feb 03 07:35:07 CET 2020 | Iteration time: 00:00:00.467 | Total time: 00:00:13.829 |
+[Time] (13)| Date: Mon Feb 03 07:35:07 CET 2020 | Iteration time: 00:00:00.472 | Total time: 00:00:14.301 |
+[Time] (14)| Date: Mon Feb 03 07:35:08 CET 2020 | Iteration time: 00:00:00.510 | Total time: 00:00:14.811 |
+[Time] (15)| Date: Mon Feb 03 07:35:08 CET 2020 | Iteration time: 00:00:00.486 | Total time: 00:00:15.298 |
+[Time] (16)| Date: Mon Feb 03 07:35:09 CET 2020 | Iteration time: 00:00:00.447 | Total time: 00:00:15.744 |
+[Time] (17)| Date: Mon Feb 03 07:35:09 CET 2020 | Iteration time: 00:00:00.431 | Total time: 00:00:16.175 |

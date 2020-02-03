@@ -1,0 +1,14 @@
+{
+	"occupation": {
+		"name":"occupation",
+		"actionable":0,
+		"actions":"",
+		"structures":"parkingSpot"
+	},
+	"spot_price": {
+		"name":"spot_price",
+		"actionable":1,
+		"actions":"increase,decrease",
+		"structures":"parkingSpot"
+	}
+}

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<parameters>
+
+	<parameter name="randomSeed" displayName="Default Random Seed" type="int" defaultValue="__NULL__" />
+	
+	<parameter name="commuter_count" displayName="Commuter Count" type="int" 
+		defaultValue="250" 
+		isReadOnly="false" 
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter"
+	/>
+	
+	<parameter name="learning" displayName="Q-Learning model" type="boolean"
+		defaultValue=""
+		isReadOnly="false"
+	/>
+	
+	<parameter name="context_load" displayName="Load context" type="boolean"
+		defaultValue="true"
+		isReadOnly="false"
+	/>
+	
+	<parameter name="initial_price" displayName="Initial spots price" type="double"
+		defaultValue="2.0"
+		isReadOnly="false"
+		converter="repast.simphony.parameter.StringConverterFactory$DoubleConverter"
+	/>
+	
+	<parameter name="simulation_start" displayName="Simulation start (xxhxx format)" type="string" 
+		defaultValue="08h00" 
+		isReadOnly="false"
+	/>
+	
+	<parameter name="simulation_end" displayName="Simulation end (xxhxx format)" type="string" 
+		defaultValue="09h00" 
+		isReadOnly="false"
+	/>
+	
+	<parameter name="learning_selection" displayName="Learning scenario" type="boolean"
+		defaultValue=""
+		isReadOnly="false"
+	/>
+	
+	<parameter name="simulations_per_action" displayName="Actions per scenario" type="int" 
+		defaultValue="1" 
+		isReadOnly="false" 
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter"
+	/>
+	
+	<parameter name="actions_per_scenario" displayName="Simulations per action" type="int" 
+		defaultValue="25" 
+		isReadOnly="false" 
+		converter="repast.simphony.parameter.StringConverterFactory$IntConverter"
+	/>
+</parameters>

@@ -1,0 +1,7 @@
+------[Iteration: 0]------
+Total voters: 8.
+Action: DECREASE_PLACES, Voters: 3, Score: 0, ids: 151,163,626,
+Action: INCREASE_PLACES, Voters: 3, Score: 0, ids: 164,873,874,
+Action: DECREASE_PRICES, Voters: 1, Score: 0, ids: 152,
+Action: DO_NOTHING, Voters: 1, Score: 0, ids: 627,
+Apply action DECREASE_PRICES randomly choose by policy agent.

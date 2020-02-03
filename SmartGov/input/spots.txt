@@ -1,0 +1,94 @@
+Blockface 59 has the following spots:
+Spot CB2048
+Spot CB2049
+Spot CB2050
+Spot CB2051
+Spot CB2052
+Spot CB2053
+Spot CB2054
+Spot CB2055
+Spot CB2056
+Blockface 60 has the following spots:
+Spot CB2045
+Spot CB2045A
+Spot CB2045B
+Spot CB2046
+Spot CB2046A
+Spot CB2046B
+Spot CB2047
+Spot CB2047A
+Spot CB2047B
+Blockface 173 has the following spots:
+Spot CB515
+Spot CB516
+Spot CB517
+Spot CB517A
+Spot CB518
+Spot CB518A
+Blockface 174 has the following spots:
+Spot CB553
+Spot CB553A
+Spot CB554
+Spot CB554A
+Spot CB555
+Spot CB555A
+Spot CB556
+Blockface 476 has the following spots:
+Spot CB2077
+Spot CB2078
+Spot CB2079
+Spot CB2080
+Spot CB2081
+Spot CB2082
+Spot CB2083
+Spot CB2084
+Spot CB2085
+Spot CB2086
+Spot CB2087
+Spot CB2088
+Spot CB2089
+Blockface 477 has the following spots:
+Spot CB2033
+Spot CB2034
+Spot CB2035
+Spot CB2036
+Spot CB2037
+Spot CB2038
+Spot CB2039
+Spot CB2040
+Spot CB2041
+Spot CB2042
+Spot CB2043
+Spot CB2044
+Blockface 479 has the following spots:
+Spot CB2057
+Blockface 565 has the following spots:
+Spot CB559
+Blockface 567 has the following spots:
+Spot CB500
+Spot CB501
+Spot CB502
+Spot CB503
+Spot CB504
+Spot CB505
+Spot CB506
+Spot CB507
+Spot CB508
+Spot CB509
+Spot CB510
+Spot CB511
+Spot CB512
+Spot CB513
+Blockface 568 has the following spots:
+Spot CB451
+Spot CB451A
+Spot CB452
+Spot CB452A
+Spot CB453
+Spot CB454
+Spot CB455
+Spot CB456
+Spot CB457
+Spot CB458
+Spot CB459
+Spot CB460
